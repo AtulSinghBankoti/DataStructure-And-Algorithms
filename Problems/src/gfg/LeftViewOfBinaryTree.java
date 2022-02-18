@@ -13,6 +13,7 @@ public class LeftViewOfBinaryTree {
 		return res;
 	}
 	
+	
 	private void getLeftView(Node root, int currLevel, HashSet<Integer> set, ArrayList<Integer> res) {
 		
 		if(root != null) {
