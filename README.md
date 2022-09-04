@@ -1,2 +1,2 @@
 # DataStructure-And-Algorithms
-data structure and algorithms demo
+This Project contains data structure and algorithms programs from Different coding platforms like GFG, Leetcode, HackerRank etc.
